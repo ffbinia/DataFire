@@ -1,0 +1,12 @@
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\bin\Debug\pryDataFire.exe.config
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\bin\Debug\pryDataFire.exe
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\bin\Debug\pryDataFire.pdb
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\obj\Debug\pryDataFire.csproj.AssemblyReference.cache
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\obj\Debug\pryDataFire.csproj.SuggestedBindingRedirects.cache
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\obj\Debug\pryDataFire.frmConsultas.resources
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\obj\Debug\pryDataFire.Properties.Resources.resources
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\obj\Debug\pryDataFire.csproj.GenerateResource.cache
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\obj\Debug\pryDataFire.csproj.CoreCompileInputs.cache
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\obj\Debug\pryDataFire.exe
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\obj\Debug\pryDataFire.pdb
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\obj\Debug\pryDataFire.frmRegistro.resources

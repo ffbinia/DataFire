@@ -1,0 +1,59 @@
+-Fecha:1/12/2022 19:45:43 Error: System.Data.ConstraintException: La columna 'anio, provincia' está restringida para ser única. Ya está presente el valor '12, Buenos Aires'.
+   en System.Data.UniqueConstraint.CheckConstraint(DataRow row, DataRowAction action)
+   en System.Data.DataTable.RaiseRowChanging(DataRowChangeEventArgs args, DataRow eRow, DataRowAction eAction, Boolean fireEvent)
+   en System.Data.DataTable.SetNewRecordWorker(DataRow row, Int32 proposedRecord, DataRowAction action, Boolean isInMerge, Boolean suppressEnsurePropertyChanged, Int32 position, Boolean fireEvent, Exception& deferredException)
+   en System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   en System.Data.DataRowCollection.Add(DataRow row)
+   en pryDataFire.frmRegistro.Registrar() en C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\frmRegistro.cs:línea 93
+-Fecha:1/12/2022 19:45:55 Error: System.Data.ConstraintException: La columna 'anio, provincia' está restringida para ser única. Ya está presente el valor '12, Buenos Aires'.
+   en System.Data.UniqueConstraint.CheckConstraint(DataRow row, DataRowAction action)
+   en System.Data.DataTable.RaiseRowChanging(DataRowChangeEventArgs args, DataRow eRow, DataRowAction eAction, Boolean fireEvent)
+   en System.Data.DataTable.SetNewRecordWorker(DataRow row, Int32 proposedRecord, DataRowAction action, Boolean isInMerge, Boolean suppressEnsurePropertyChanged, Int32 position, Boolean fireEvent, Exception& deferredException)
+   en System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   en System.Data.DataRowCollection.Add(DataRow row)
+   en pryDataFire.frmRegistro.Registrar() en C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\frmRegistro.cs:línea 93
+-Fecha:1/12/2022 20:00:34 Error: System.Data.ConstraintException: La columna 'anio, provincia' está restringida para ser única. Ya está presente el valor '12, Buenos Aires'.
+   en System.Data.UniqueConstraint.CheckConstraint(DataRow row, DataRowAction action)
+   en System.Data.DataTable.RaiseRowChanging(DataRowChangeEventArgs args, DataRow eRow, DataRowAction eAction, Boolean fireEvent)
+   en System.Data.DataTable.SetNewRecordWorker(DataRow row, Int32 proposedRecord, DataRowAction action, Boolean isInMerge, Boolean suppressEnsurePropertyChanged, Int32 position, Boolean fireEvent, Exception& deferredException)
+   en System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   en System.Data.DataRowCollection.Add(DataRow row)
+   en pryDataFire.frmRegistro.Registrar() en C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\frmRegistro.cs:línea 93
+-Fecha:1/12/2022 20:01:13 Error: System.Data.ConstraintException: La columna 'anio, provincia' está restringida para ser única. Ya está presente el valor '0, Buenos Aires'.
+   en System.Data.UniqueConstraint.CheckConstraint(DataRow row, DataRowAction action)
+   en System.Data.DataTable.RaiseRowChanging(DataRowChangeEventArgs args, DataRow eRow, DataRowAction eAction, Boolean fireEvent)
+   en System.Data.DataTable.SetNewRecordWorker(DataRow row, Int32 proposedRecord, DataRowAction action, Boolean isInMerge, Boolean suppressEnsurePropertyChanged, Int32 position, Boolean fireEvent, Exception& deferredException)
+   en System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   en System.Data.DataRowCollection.Add(DataRow row)
+   en pryDataFire.frmRegistro.Registrar() en C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\frmRegistro.cs:línea 93
+-Fecha:1/12/2022 20:02:17 Error: System.Data.ConstraintException: La columna 'anio, provincia' está restringida para ser única. Ya está presente el valor '231, Buenos Aires'.
+   en System.Data.UniqueConstraint.CheckConstraint(DataRow row, DataRowAction action)
+   en System.Data.DataTable.RaiseRowChanging(DataRowChangeEventArgs args, DataRow eRow, DataRowAction eAction, Boolean fireEvent)
+   en System.Data.DataTable.SetNewRecordWorker(DataRow row, Int32 proposedRecord, DataRowAction action, Boolean isInMerge, Boolean suppressEnsurePropertyChanged, Int32 position, Boolean fireEvent, Exception& deferredException)
+   en System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   en System.Data.DataRowCollection.Add(DataRow row)
+   en pryDataFire.frmRegistro.Registrar() en C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\frmRegistro.cs:línea 93
+-Fecha:1/12/2022 20:02:28 Error: System.Data.ConstraintException: La columna 'anio, provincia' está restringida para ser única. Ya está presente el valor '231, Buenos Aires'.
+   en System.Data.UniqueConstraint.CheckConstraint(DataRow row, DataRowAction action)
+   en System.Data.DataTable.RaiseRowChanging(DataRowChangeEventArgs args, DataRow eRow, DataRowAction eAction, Boolean fireEvent)
+   en System.Data.DataTable.SetNewRecordWorker(DataRow row, Int32 proposedRecord, DataRowAction action, Boolean isInMerge, Boolean suppressEnsurePropertyChanged, Int32 position, Boolean fireEvent, Exception& deferredException)
+   en System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   en System.Data.DataRowCollection.Add(DataRow row)
+   en pryDataFire.frmRegistro.Registrar() en C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\frmRegistro.cs:línea 93
+-Fecha:1/12/2022 20:02:37 Error: System.Data.ConstraintException: La columna 'anio, provincia' está restringida para ser única. Ya está presente el valor '1993, Corrientes'.
+   en System.Data.UniqueConstraint.CheckConstraint(DataRow row, DataRowAction action)
+   en System.Data.DataTable.RaiseRowChanging(DataRowChangeEventArgs args, DataRow eRow, DataRowAction eAction, Boolean fireEvent)
+   en System.Data.DataTable.SetNewRecordWorker(DataRow row, Int32 proposedRecord, DataRowAction action, Boolean isInMerge, Boolean suppressEnsurePropertyChanged, Int32 position, Boolean fireEvent, Exception& deferredException)
+   en System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   en System.Data.DataRowCollection.Add(DataRow row)
+   en pryDataFire.frmRegistro.Registrar() en C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\frmRegistro.cs:línea 93
+-Fecha:1/12/2022 20:02:40 Error: System.Data.ConstraintException: La columna 'anio, provincia' está restringida para ser única. Ya está presente el valor '1993, Chubut'.
+   en System.Data.UniqueConstraint.CheckConstraint(DataRow row, DataRowAction action)
+   en System.Data.DataTable.RaiseRowChanging(DataRowChangeEventArgs args, DataRow eRow, DataRowAction eAction, Boolean fireEvent)
+   en System.Data.DataTable.SetNewRecordWorker(DataRow row, Int32 proposedRecord, DataRowAction action, Boolean isInMerge, Boolean suppressEnsurePropertyChanged, Int32 position, Boolean fireEvent, Exception& deferredException)
+   en System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   en System.Data.DataRowCollection.Add(DataRow row)
+   en pryDataFire.frmRegistro.Registrar() en C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\frmRegistro.cs:línea 93
+-Fecha:1/12/2022 20:03:11 Error: System.InvalidOperationException: Colección modificada; la operación de enumeración no se puede ejecutar.
+   en System.Data.RBTree`1.RBTreeEnumerator.MoveNext()
+   en pryDataFire.frmRegistro.Registrar() en C:\Users\feder\Escritorio\Feduki\Programandoando\IES\3º SEMESTRE\LAB III\TP-LAB3-BINIA\pryDataFire\frmRegistro.cs:línea 72
